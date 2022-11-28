@@ -1,0 +1,7 @@
+INFO    2022-11-20 09:35:47,034 [main] main.dao.impl.IDaoPacienteImplH2  - {numServers=0}
+ INFO    2022-11-20 09:35:47,036 [main] main.dao.impl.IDaoPacienteImplH2  - Esto es un mensaje informativo
+ ERROR   2022-11-20 09:35:47,036 [main] main.dao.impl.IDaoPacienteImplH2  - Esto es un error
+ INFO    2022-11-20 11:38:56,653 [main] com.proyecto_clinica_odontologica.dao.impl.IDaoPacienteImplH2  - {numServers=0}
+ INFO    2022-11-20 11:38:56,655 [main] com.proyecto_clinica_odontologica.dao.impl.IDaoPacienteImplH2  - Esto es un mensaje informativo
+ ERROR   2022-11-20 11:38:56,655 [main] com.proyecto_clinica_odontologica.dao.impl.IDaoPacienteImplH2  - Esto es un error
+ 
